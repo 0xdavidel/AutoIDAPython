@@ -55,3 +55,6 @@ The slave is responsible for :
 
 ## Disclaimer
 Running IDA on malware samples is never recommended outside of a correctly configured VM. Any damages or errors this might give are not my responsibility.
+
+## Contact me
+[https://twitter.com/0xdavidel](https://twitter.com/0xdavidel)
